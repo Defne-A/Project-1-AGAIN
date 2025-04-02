@@ -28,7 +28,7 @@ Installation Process:
 3) Find the application file labeled Assignment 1 Trial, and click on it. This should run the scene.
 4) ALternatively, go to Assets>Scenes and click on the Robot Scene. Then, in the Unity editor, hit build and run under file.
 
-Credits: Latif Castro, Defne A., Brittney Masters, Noah Taylor
+Credits: Latif Castro, Defne Aydin, Brittney Masters, Noah Taylor
 
 Freeware media assets were used from the following sources:
 (1) https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
