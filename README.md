@@ -14,7 +14,7 @@ ments as per the policies of their authors.
 
 Implementation Choices:
 
-1) A camera setup in a 3rd person perspective located behind the player that follows him
+1) A camera setup in a 3rd person perspective located behind the player that follows him, camera is also mouse controlled so as to be able to view the world more efficiently.
 2) Realistic terrain that features several rises in terrain due to surrounding mountains and hillsides. It also features dips in the floor for bodies of water.
 3) Several varieties of trees are featured, up to 5 different types in the land
 4) A castle placed near the corner with outer walls, and an inner keep. It also has a bunch of doorways and windows, with a grand opening in the front to enter. It's loaded with a variety of weaponry to fend off intruders.
